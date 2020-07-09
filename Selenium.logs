@@ -1,0 +1,6 @@
+[INFO ] 2020-07-09 23:05:47,139 ApplicationLog user_on_the_home_page 27 0 - Application opened in given Browser
+[INFO ] 2020-07-09 23:05:48,777 ApplicationLog he_enters_the_username_as 35 1638 - User Id entered
+[INFO ] 2020-07-09 23:05:49,381 ApplicationLog he_enters_the_password_as 42 2242 - Password Entered
+[INFO ] 2020-07-09 23:05:49,854 ApplicationLog click_on_Login_button 48 2715 - Login button clicked
+[INFO ] 2020-07-09 23:06:13,412 ApplicationLog waitForElement 266 26273 - Unable to find the WebElement in the web page by using its locator: By.cssSelector: h1.private-page__title within the timeout: 15
+[INFO ] 2020-07-09 23:06:23,392 ApplicationLog run 70 36253 - Step Failed and Browser closed
